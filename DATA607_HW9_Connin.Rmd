@@ -64,7 +64,7 @@ library(janitor)
 
 #set query parameters to generalize requests
 
-key = "jY4q18VWUjMQPNMBjhrdquQ7AVPxYGZe"
+key = "place key here"
 
 search_terms <- c("Adirondacks")
 
